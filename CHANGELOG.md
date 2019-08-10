@@ -1,6 +1,6 @@
 # ChangeLog
 
-## 0.1.2 (2019-08-10)
+## 0.1.3, 0.1.2 (2019-08-10)
 ### Changed
 - Tweak package.json and README files
 
