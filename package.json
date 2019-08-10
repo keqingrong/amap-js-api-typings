@@ -6,8 +6,10 @@
   "types": "index.d.ts",
   "keywords": [
     "amap",
+    "amap-api",
     "amap-js",
     "amap-js-api",
+    "amap-sdk",
     "react-amap",
     "vue-amap"
   ],
