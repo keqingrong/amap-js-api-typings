@@ -1,0 +1,17 @@
+{
+  "name": "amap-js-api-typings",
+  "version": "0.0.0",
+  "description": "Type definitions for JavaScript APIs of AMap in TypeScript",
+  "main": "index.d.ts",
+  "keywords": [
+    "amap",
+    "amap-js-api"
+  ],
+  "author": "Qingrong Ke <keqingrong@outlook.com> (https://keqingrong.github.io/)",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/amap-js-api": "^1.4.6",
+    "@types/amap-js-api-district-search": "^1.4.0",
+    "@types/amap-js-api-geocoder": "^1.4.0"
+  }
+}
