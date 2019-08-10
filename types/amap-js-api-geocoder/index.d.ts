@@ -4,7 +4,7 @@
 // Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
 // TypeScript Version: 2.8
 
-/// <reference types="amap-js-api" />
+/// <reference types="../amap-js-api" />
 
 declare namespace AMap {
     namespace Geocoder {

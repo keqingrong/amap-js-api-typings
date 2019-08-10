@@ -1,3 +1,4 @@
+/// <reference types="../amap-js-api" />
 
 declare namespace AMap {
   /**
