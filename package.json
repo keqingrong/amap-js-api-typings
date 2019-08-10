@@ -5,7 +5,10 @@
   "main": "index.d.ts",
   "keywords": [
     "amap",
-    "amap-js-api"
+    "amap-js",
+    "amap-js-api",
+    "react-amap",
+    "vue-amap"
   ],
   "author": "Qingrong Ke <keqingrong@outlook.com> (https://keqingrong.github.io/)",
   "license": "MIT",
