@@ -9,6 +9,7 @@
   ],
   "author": "Qingrong Ke <keqingrong@outlook.com> (https://keqingrong.github.io/)",
   "license": "MIT",
+  "repository": "keqingrong/amap-js-api-typings",
   "devDependencies": {
     "@types/amap-js-api": "^1.4.6",
     "@types/amap-js-api-district-search": "^1.4.0",
