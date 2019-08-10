@@ -1,5 +1,10 @@
 # ChangeLog
 
+## 0.1.1 (2019-08-10)
+### Fixed
+
+- Use relative paths instead of package names in the reference directive
+
 ## 0.1.0 (2019-08-10)
 ### Added
 
