@@ -1,8 +1,10 @@
 # amap-js-api-typings
 
+[![npm version](https://img.shields.io/npm/v/amap-js-api-typings.svg)](https://www.npmjs.com/package/amap-js-api-typings)
+
 Type definitions for JavaScript APIs of AMap in TypeScript
 
-> [中文版本](./README-zh.md)
+English | [简体中文](./README-zh-hans.md)
 
 ## Installation
 

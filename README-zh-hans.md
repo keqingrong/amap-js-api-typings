@@ -1,8 +1,10 @@
 # 高德地图类型定义文件
 
+[![npm version](https://img.shields.io/npm/v/amap-js-api-typings.svg)](https://www.npmjs.com/package/amap-js-api-typings)
+
 高德地图 JavaScript API 的 TypeScript 类型定义文件
 
-> [English version](./README.md)
+[English](./README.md) | 简体中文
 
 ## 安装
 
