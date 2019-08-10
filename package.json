@@ -3,6 +3,7 @@
   "version": "0.1.2",
   "description": "Type definitions for JavaScript APIs of AMap in TypeScript",
   "main": "index.d.ts",
+  "types": "index.d.ts",
   "keywords": [
     "amap",
     "amap-js",
