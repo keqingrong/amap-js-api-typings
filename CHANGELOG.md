@@ -1,5 +1,9 @@
 # ChangeLog
 
+## 0.1.4 (2019-08-19)
+### Fixed
+- Revert the type definition of `District.boundaries`
+
 ## 0.1.3, 0.1.2 (2019-08-10)
 ### Changed
 - Tweak package.json and README files
