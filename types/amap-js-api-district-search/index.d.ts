@@ -59,7 +59,7 @@ declare namespace AMap {
             /**
              * 边界坐标集合
              */
-            boundaries?: LngLat[];
+            boundaries?: LngLat[][];
             /**
              * 下级行政区信息列表
              */
