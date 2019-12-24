@@ -37,7 +37,7 @@ Or you could use it with [triple-slash directive](https://www.typescriptlang.org
 
 ## Thanks
 
-Special thanks to the `@types/amap-js-api` contributors.
+Special thanks to the `@types/amap-js-api` contributors, especially [breeze9527](https://github.com/breeze9527).
 
 ## Contributing
 

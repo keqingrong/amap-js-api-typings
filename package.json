@@ -16,9 +16,26 @@
   "author": "Qingrong Ke <keqingrong@outlook.com> (https://keqingrong.github.io/)",
   "license": "MIT",
   "repository": "keqingrong/amap-js-api-typings",
-  "devDependencies": {
+  "dependencies": {
     "@types/amap-js-api": "^1.4.6",
+    "@types/amap-js-api-arrival-range": "^1.4.0",
+    "@types/amap-js-api-autocomplete": "^1.4.0",
+    "@types/amap-js-api-city-search": "^1.4.0",
+    "@types/amap-js-api-control-bar": "^1.4.0",
     "@types/amap-js-api-district-search": "^1.4.0",
-    "@types/amap-js-api-geocoder": "^1.4.0"
+    "@types/amap-js-api-driving": "^1.4.0",
+    "@types/amap-js-api-geocoder": "^1.4.0",
+    "@types/amap-js-api-geolocation": "^1.4.0",
+    "@types/amap-js-api-heatmap": "^1.4.0",
+    "@types/amap-js-api-indoor-map": "^1.4.1",
+    "@types/amap-js-api-line-search": "^1.4.0",
+    "@types/amap-js-api-map-type": "^1.4.0",
+    "@types/amap-js-api-map3d": "^1.4.0",
+    "@types/amap-js-api-overview": "^1.4.0",
+    "@types/amap-js-api-place-search": "^1.4.0",
+    "@types/amap-js-api-riding": "^1.4.0",
+    "@types/amap-js-api-scale": "^1.4.0",
+    "@types/amap-js-api-station-search": "^1.4.0",
+    "@types/amap-js-api-tool-bar": "^1.4.0"
   }
 }

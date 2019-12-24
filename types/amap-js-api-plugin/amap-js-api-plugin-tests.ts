@@ -50,13 +50,23 @@ AMap.plugin(['AMap.DistrictSearch', 'AMap.Geocoder'], () => {
       typeof result !== 'string' &&
       result.districtList.length > 0
     ) {
-      // 获取边界信息
-      const bounds = result.districtList[0].boundaries
+      const districtList = result.districtList
       const point: [number, number] = [118.798409, 32.048994]
-      const isPointInRing = AMap.GeometryUtil.isPointInRing(
-        point,
-        bounds
-      )
+      let isPointInRing = false
+
+      for (let i = 0; i < districtList.length; i++) {
+        // 获取边界信息
+        const bounds = districtList[i].boundaries
+        for (let j = 0; j < bounds.length; j++) {
+          if (AMap.GeometryUtil.isPointInRing(point, bounds[j])) {
+            isPointInRing = true
+            break
+          }
+        }
+        if (isPointInRing) {
+          break
+        }
+      }
       console.log(result)
       console.log(isPointInRing)
     }

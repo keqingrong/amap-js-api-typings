@@ -37,7 +37,7 @@ npm install amap-js-api-typings
 
 ## 鸣谢
 
-感谢 `@types/amap-js-api` 等包的贡献者。
+感谢 `@types/amap-js-api` 等包的贡献者，尤其是 [breeze9527](https://github.com/breeze9527)。
 
 ## 贡献
 
