@@ -1,5 +1,9 @@
 # ChangeLog
 
+## 1.0.0 (2019-12-24)
+### Added
+- Add all existing AMap type definitions as dependencies
+
 ## 0.1.4 (2019-08-19)
 ### Fixed
 - Revert the type definition of `District.boundaries`
