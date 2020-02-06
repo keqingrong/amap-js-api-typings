@@ -1,5 +1,3 @@
-/// <reference types="amap-js-api" />
-
 declare namespace AMap {
   /**
    * https://lbs.amap.com/api/javascript-api/guide/abc/plugins
@@ -56,5 +54,9 @@ declare namespace AMap {
    * 服务可以脱离地图单独使用，兼容原有的通过 AMap.plugin 方法加载的方式
    * v1.3.5 (2014-12-18) 引入
    */
-  const service: typeof plugin;
+  // const service: typeof plugin;
+  function plugin(
+    pluginNames: PluginName | PluginName[],
+    callback: () => void
+  ): void
 }

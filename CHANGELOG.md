@@ -1,5 +1,9 @@
 # ChangeLog
 
+## 1.0.1 (2020-02-06)
+### Changed
+- Update `@types/amap-js-api`
+
 ## 1.0.0 (2019-12-24)
 ### Added
 - Add all existing AMap type definitions as dependencies

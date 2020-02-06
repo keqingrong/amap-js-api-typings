@@ -17,7 +17,7 @@
   "license": "MIT",
   "repository": "keqingrong/amap-js-api-typings",
   "dependencies": {
-    "@types/amap-js-api": "^1.4.6",
+    "@types/amap-js-api": "^1.4.7",
     "@types/amap-js-api-arrival-range": "^1.4.0",
     "@types/amap-js-api-autocomplete": "^1.4.0",
     "@types/amap-js-api-city-search": "^1.4.0",

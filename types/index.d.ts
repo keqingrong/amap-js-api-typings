@@ -18,4 +18,4 @@
 /// <reference types="amap-js-api-scale" />
 /// <reference types="amap-js-api-station-search" />
 /// <reference types="amap-js-api-tool-bar" />
-/// <reference path="./amap-js-api-plugin/index.d.ts" />
+///// <reference path="./amap-js-api-plugin/index.d.ts" />
