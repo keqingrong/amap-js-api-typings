@@ -1,6 +1,6 @@
 {
   "name": "amap-js-api-typings",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Type definitions for JavaScript APIs of AMap in TypeScript",
   "main": "index.d.ts",
   "types": "index.d.ts",
